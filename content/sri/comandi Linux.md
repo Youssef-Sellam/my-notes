@@ -45,8 +45,6 @@ Il comando `cd` è la abbreviazione di "change directory", infatti come dice il 
 
 #### Esempi `cd` e `pwd`
 
-bash
-
 ```
 # Per entrare in una directory
 sysadmin@localhost:~/Documents$ cd School/Art
@@ -68,8 +66,6 @@ sysadmin@localhost:~/Documents/School$ pwd
 
 Il comando `mkdir` serve per creare una nuova directory.
 
-bash
-
 ```
 mkdir nome_della_directory
 ```
@@ -77,9 +73,6 @@ mkdir nome_della_directory
 ### rm
 
 Il comando `rm` serve per rimuovere file o directory.
-
-bash
-
 ```
 # Per rimuovere un file
 rm nome_del_file
@@ -92,8 +85,6 @@ rm -r nome_della_directory
 
 Il comando `touch` serve per creare un nuovo file vuoto.
 
-bash
-
 ```
 touch nome_del_file
 ```
@@ -101,8 +92,6 @@ touch nome_del_file
 ### cp
 
 Il comando `cp` serve per copiare file o directory.
-
-bash
 
 ```
 # Per copiare un file
