@@ -2,5 +2,9 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+questi sono i miei appunti presi in classe riassunti 
+per tpi
+[[tecniche di gestione della memoria]] poi ce anche [[come instalare una machinia virtuale]] 
+
+poi per sri
+[[comandi Linux]]

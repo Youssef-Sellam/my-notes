@@ -55,25 +55,25 @@ sysadmin@localhost:~/Documents/School/Art$ pwd
 /home/sysadmin/Documents/School/Art
 
 # Per uscire da una directory
+```
 sysadmin@localhost:~/Documents/School/Art$ cd ..
 sysadmin@localhost:~/Documents/School$ pwd
 /home/sysadmin/Documents/School
-```
 
+```
 ## Altri comandi utili
 
 ### mkdir
 
 Il comando `mkdir` serve per creare una nuova directory.
 
-```
+
 mkdir nome_della_directory
-```
 
 ### rm
 
 Il comando `rm` serve per rimuovere file o directory.
-```
+
 # Per rimuovere un file
 rm nome_del_file
 
@@ -85,45 +85,34 @@ rm -r nome_della_directory
 
 Il comando `touch` serve per creare un nuovo file vuoto.
 
-```
+
 touch nome_del_file
 ```
 
-### cp
 
-Il comando `cp` serve per copiare file o directory.
-
-```
 # Per copiare un file
 
 ### cp
 
 Il comando `cp` serve per copiare file o directory.
 
-bash
+```
+cp nome_file_originale nome_file_destinazione 
 
 ```
-# Per copiare un file
-cp nome_file_originale nome_file_destinazione
-
 # Per copiare una directory
+```
 cp -r nome_directory_originale nome_directory_destinazione
 ```
-
 ### mv
 
 Il comando `mv` serve per spostare o rinominare file o directory.
 
-bash
-
-```
 # Per spostare un file
-```
+
 ### echo
 
 Il comando `echo` serve per visualizzare messaggi o variabili.
-
-bash
 
 ```
 echo "Ciao, mondo!"

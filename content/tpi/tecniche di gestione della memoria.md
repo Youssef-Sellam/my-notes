@@ -43,6 +43,7 @@ Combina le due tecniche: ogni segmento è ulteriormente diviso in pagine di dime
 - **Overhead di traduzione**: La traduzione degli indirizzi è più complessa e richiede più passaggi.
 - **Maggiore consumo di memoria**: Le tabelle occupano ulteriore spazio nella memoria.
 
-[[gestione dei processi]]
-[[gestione memoria]]
+per vare più dettagli nella gestione memoria ce [[gestione memoria]] po se vuoi informarti anche sui precessi ce [[gestione dei processi]]
+
+
 ---
