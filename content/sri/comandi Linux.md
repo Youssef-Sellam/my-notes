@@ -118,3 +118,4 @@ Il comando `echo` serve per visualizzare messaggi o variabili.
 echo "Ciao, mondo!"
 ```
 
+torna home [[index]]

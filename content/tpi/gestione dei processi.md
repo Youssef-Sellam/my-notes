@@ -31,5 +31,6 @@
 - Processo supervisore: Generato dal sistema operativo con priorità più alta.
     
 
-**
- [torna a alla home [index]]
+
+torna a alla home  [[index]]
+** 
